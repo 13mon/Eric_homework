@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author  : Evil0ctal
+# @Author  : sssssbbbbbb
 # @Time    : 2021/07/09
 # @Function:
 # Enter the number of hours and salary rate, calculate the total salary and output to the console.
